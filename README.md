@@ -1,1 +1,1 @@
-This is a project is a part of the Odin Project curriculum
+This project is a part of the Odin Project curriculum
