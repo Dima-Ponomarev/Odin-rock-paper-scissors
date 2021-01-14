@@ -29,3 +29,10 @@ const playRound = (playerSelection, computerSelection) => {
 
 }
 
+const game = () => {
+    for(i = 0; i < 5; i++){
+        const playerSelection = prompt("Rock Paper Scissors", "Rock");
+        const computerSelection = computerPlay();
+        playRound(playerSelection, computerSelection)
+    }
+}
