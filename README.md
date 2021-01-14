@@ -1,1 +1,1 @@
-This is a project that i'm doing within The Odin Project
+This is a project is a part of the Odin Project curriculum
