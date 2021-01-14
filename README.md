@@ -1,0 +1,1 @@
+This is a project that i'm doing within The Odin Project
